@@ -1,8 +1,8 @@
 # MythosMaphack release notes
 
-## 0.1.0-preview
+## 0.1.0
 
-First preview, for testers.
+First release.
 
 - **Map window.** The full layout of the level you are in: walls, exits labelled with where they lead, stairs and
   cave entrances, waypoints, shrines, wells, super chests, quest objects and bosses.
@@ -13,10 +13,14 @@ First preview, for testers.
   (seed, level number, difficulty 0/1/2).
 - Works with Diablo II: Resurrected **3.3.93847** only; any other game version shows "not supported".
 
-**Known limits of this preview**
+**Known limits**
 
 - Not yet tested against a live game. Finding the map seed in the running game is the part being tested: if the
   status bar stays on "seed unresolved", the map cannot be drawn yet. Please report it on Discord with the level
   you were in.
 - In a game with other players, it may follow the wrong player.
 - Not code-signed: Windows may show "Windows protected your PC". Choose **More info → Run anyway**.
+
+## 0.1.0-preview
+
+Preview for testers; the same program as 0.1.0.
