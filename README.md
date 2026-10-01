@@ -7,15 +7,16 @@
 <p align="center">
   <a href="https://discord.com/invite/d2rmythos"><img src="https://img.shields.io/badge/Discord-Join%20D2R%20Mythos-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the D2R Mythos Discord"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0C0A09?style=for-the-badge&logo=windows&logoColor=C8A45C&labelColor=1C1715" alt="Windows 10 and 11">
-  <img src="https://img.shields.io/badge/Status-In%20testing-C8A45C?style=for-the-badge&labelColor=1C1715" alt="Status: in testing">
+  <img src="https://img.shields.io/badge/Release-0.1%20preview-C8A45C?style=for-the-badge&labelColor=1C1715" alt="Release 0.1 preview">
   <img src="https://img.shields.io/badge/For-Diablo%20II%3A%20Resurrected-8B1E1E?style=for-the-badge&labelColor=1C1715" alt="For Diablo II: Resurrected">
 </p>
 
 ---
 
 > [!IMPORTANT]
-> **No release yet.** MythosMaphack is in testing. The first download will appear on the
-> [Releases page](../../releases) when it is ready, and it will be announced on
+> **0.1.0-preview is out for testers.** [Download it from the Releases page](../../releases).
+> This preview has not been tested against a live game yet; see the
+> [release notes](CHANGELOG.md) for its known limits, and tell us how it went on
 > [Discord](https://discord.com/invite/d2rmythos).
 
 **MythosMaphack** shows the full map of the level you are in, in its own window next to Diablo II:
@@ -65,8 +66,12 @@ Everything happens on your computer. MythosMaphack does not connect to any serve
 
 ## 🚀 Getting started
 
-The first release is not out yet. When it is: download the zip from the [Releases page](../../releases),
-unzip it anywhere, start `MythosMaphack.exe`, then start the game. The map appears when you enter a game.
+1. Download **MythosMaphack-0.1.0-preview-win-x64.zip** from the [Releases page](../../releases) and unzip it
+   anywhere.
+2. Start `MythosMaphack.exe`. It says "waiting for D2R.exe" until the game runs.
+3. Start the game and join a game. The map appears when you enter a level; the status bar shows the level,
+   the difficulty and a ✓ once the map is confirmed.
+4. **Follow** keeps you in the middle, **Fit** shows the whole level, the mouse wheel zooms, dragging pans.
 
 ## ❓ FAQ
 
