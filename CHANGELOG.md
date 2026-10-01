@@ -19,7 +19,10 @@ First release.
   status bar stays on "seed unresolved", the map cannot be drawn yet. Please report it on Discord with the level
   you were in.
 - In a game with other players, it may follow the wrong player.
-- Not code-signed: Windows may show "Windows protected your PC". Choose **More info → Run anyway**.
+- Not code-signed, so Windows may warn about it. Before unzipping, right-click the zip → **Properties** → tick
+  **Unblock** → **OK**; or on "Windows protected your PC" choose **More info → Run anyway**. **Smart App Control** has no
+  "Run anyway": the only way past it is turning it off (Windows Security → App & browser control), which Windows
+  usually does not let you undo without resetting the PC, so think before you do.
 
 ## 0.1.0-preview
 

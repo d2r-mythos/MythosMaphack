@@ -65,12 +65,29 @@ Everything happens on your computer. MythosMaphack does not connect to any serve
 
 ## 🚀 Getting started
 
-1. Download **MythosMaphack-0.1.0-win-x64.zip** from the [Releases page](../../releases/latest) and unzip it
-   anywhere.
-2. Start `MythosMaphack.exe`. It says "waiting for D2R.exe" until the game runs.
-3. Start the game and join a game. The map appears when you enter a level; the status bar shows the level,
-   the difficulty and a ✓ once the map is confirmed.
-4. **Follow** keeps you in the middle, **Fit** shows the whole level, the mouse wheel zooms, dragging pans.
+1. **Download** `MythosMaphack-0.1.0-win-x64.zip` from the [Releases](../../releases/latest) page.
+2. **Unblock** it: right-click the zip → **Properties** → tick **Unblock** → **OK**. This stops the
+   "Windows protected your PC" warning.
+3. **Unzip** it anywhere you like. There's no installer.
+4. **Run** `MythosMaphack.exe`. It says "waiting for D2R.exe" until the game is running.
+5. **Play.** Join a game; the map appears when you enter a level, and the status bar shows the level, the
+   difficulty and a ✓ once the map is confirmed. **Follow** keeps you in the middle, **Fit** shows the whole level,
+   the mouse wheel zooms, dragging pans.
+
+**Verify your download** (optional): every release lists SHA-256 checksums in `SHA256SUMS.txt`.
+
+```powershell
+Get-FileHash .\MythosMaphack-0.1.0-win-x64.zip -Algorithm SHA256
+```
+
+**Windows warnings.** MythosMaphack is not code-signed yet, so Windows may warn about it:
+
+- **Your browser holds back the download:** Edge: **…** → **Keep** → **Keep anyway**. Chrome: **Ctrl+J** → **Keep**.
+- **"Windows protected your PC":** click **More info** → **Run anyway** (or unblock the zip first, step 2).
+- **"Smart App Control blocked an app":** there is no "Run anyway" for this one. The only way past it is turning
+  Smart App Control off (Windows Security → App & browser control); Windows usually does not let you turn it back
+  on without resetting the PC, so think before you do. Ask on Discord if unsure.
+- **Antivirus removed the file:** check the checksum, then restore it and report the false positive.
 
 ## ❓ FAQ
 
@@ -94,6 +111,15 @@ The game was patched after this version of MythosMaphack. Wait for an update; it
 
 No. It is a normal window. Use "On top" to keep it above the game in windowed mode, or put it on another
 screen.
+</details>
+
+<details>
+<summary><b>Windows says "Windows protected your PC" or "Smart App Control blocked an app".</b></summary>
+
+MythosMaphack is not code-signed yet, so Windows does not recognise it. For **"Windows protected your PC"**
+click **More info** → **Run anyway**, or right-click the zip → **Properties** → **Unblock** before extracting so the
+warning never appears. **Smart App Control** has no "Run anyway": the only way past it is turning it off (Windows
+Security → App & browser control), which Windows usually does not let you undo without resetting the PC.
 </details>
 
 ## 💬 Community and support
