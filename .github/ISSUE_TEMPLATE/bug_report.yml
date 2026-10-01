@@ -1,0 +1,41 @@
+name: Bug report
+description: Something in MythosMaphack does not work as expected.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Never paste a Battle.net login, a password, or character names you want to keep private.**
+        For questions and help, the [D2R Mythos Discord](https://discord.com/invite/d2rmythos) is faster.
+  - type: input
+    id: version
+    attributes:
+      label: MythosMaphack version
+      placeholder: "0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: "Windows 11 24H2"
+    validations:
+      required: true
+  - type: input
+    id: level
+    attributes:
+      label: Which level and difficulty?
+      placeholder: "Cold Plains, Nightmare"
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What the status bar at the bottom said helps a lot. A screenshot of the MythosMaphack window is welcome.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
