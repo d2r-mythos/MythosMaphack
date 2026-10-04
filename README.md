@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://discord.com/invite/d2rmythos"><img src="https://img.shields.io/badge/Discord-Join%20D2R%20Mythos-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the D2R Mythos Discord"></a>
+  <a href="https://d2r.org/forum/t/13/mythosmaphack-0-1-0-released-the-full-map-of-every-level-in"><img src="https://img.shields.io/badge/Forum-d2r.org-C8A45C?style=for-the-badge&labelColor=1C1715" alt="MythosMaphack on the d2r.org forum"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0C0A09?style=for-the-badge&logo=windows&logoColor=C8A45C&labelColor=1C1715" alt="Windows 10 and 11">
   <img src="https://img.shields.io/badge/Release-0.1-C8A45C?style=for-the-badge&labelColor=1C1715" alt="Release 0.1">
   <img src="https://img.shields.io/badge/For-Diablo%20II%3A%20Resurrected-8B1E1E?style=for-the-badge&labelColor=1C1715" alt="For Diablo II: Resurrected">
@@ -125,6 +126,7 @@ Security → App & browser control), which Windows usually does not let you undo
 ## 💬 Community and support
 
 Help, bug reports and ideas: **[D2R Mythos Discord](https://discord.com/invite/d2rmythos)**.
+The release announcement and discussion are on the forum at **[d2r.org](https://d2r.org/forum/t/13/mythosmaphack-0-1-0-released-the-full-map-of-every-level-in)**.
 
 ## ⚖ Disclaimer
 
