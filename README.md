@@ -17,7 +17,8 @@
 > [!IMPORTANT]
 > **MythosMaphack 0.1.0 is out.** [Download it from the Releases page](../../releases/latest).
 > It has not been tested against a live game yet; see the [release notes](CHANGELOG.md) for its known
-> limits, and tell us how it went on [Discord](https://discord.com/invite/d2rmythos).
+> limits, and tell us how it went in the [support and discussion thread](https://d2r.org/forum/t/13/mythosmaphack-0-1-0-released-the-full-map-of-every-level-in) or on
+> [Discord](https://discord.com/invite/d2rmythos).
 
 **MythosMaphack** shows the full map of the level you are in, in its own window next to Diablo II:
 Resurrected. Walls, every exit and where it leads, waypoints, shrines, bosses and quest objects are all
@@ -125,8 +126,9 @@ Security → App & browser control), which Windows usually does not let you undo
 
 ## 💬 Community and support
 
-Help, bug reports and ideas: **[D2R Mythos Discord](https://discord.com/invite/d2rmythos)**.
-The release announcement and discussion are on the forum at **[d2r.org](https://d2r.org/forum/t/13/mythosmaphack-0-1-0-released-the-full-map-of-every-level-in)**.
+- **Support and discussion:** the [MythosMaphack thread on d2r.org](https://d2r.org/forum/t/13/mythosmaphack-0-1-0-released-the-full-map-of-every-level-in).
+- **Help, bug reports and ideas:** the [D2R Mythos Discord](https://discord.com/invite/d2rmythos) is the fastest way.
+- **Security problems:** please report privately, see [SECURITY.md](SECURITY.md).
 
 ## ⚖ Disclaimer
 

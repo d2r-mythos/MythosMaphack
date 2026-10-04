@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         **Never paste a Battle.net login, a password, or character names you want to keep private.**
-        For questions and help, the [D2R Mythos Discord](https://discord.com/invite/d2rmythos) is faster.
+        For questions and help, the [support and discussion thread on d2r.org](https://d2r.org/forum/t/13/mythosmaphack-0-1-0-released-the-full-map-of-every-level-in) or the [D2R Mythos Discord](https://discord.com/invite/d2rmythos) is faster.
   - type: input
     id: version
     attributes:

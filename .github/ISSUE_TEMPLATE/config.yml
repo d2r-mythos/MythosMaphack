@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Support and discussion
+    url: https://d2r.org/forum/t/13/mythosmaphack-0-1-0-released-the-full-map-of-every-level-in
+    about: The MythosMaphack thread on the d2r.org forum — questions, how it went, ideas.
   - name: Help, questions and feature ideas
     url: https://discord.com/invite/d2rmythos
     about: The fastest way to get help is the D2R Mythos Discord.
